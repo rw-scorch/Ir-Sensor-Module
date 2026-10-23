@@ -36,3 +36,21 @@ Current Progress - 1h
 **Total time spent: 6 hours 30 minutes**
 
 
+
+# Oct 26 : Soldering Prep
+30 mins - So the first test has been completed and is working properly, now, I’m just trying to prep to start soldering the bigger module, I already finished my schematic which took roughly half an hour, I understand if my time gets cut down, but I am yet to learn how to do everything - 
+
+MY PHOTOS ARE IN THIS DRIVE: https://drive.google.com/drive/folders/14RNFrdZYEur0siDXHzPnogz5Q2L4HWWF
+
+18 mins - I’ve placed most of the components, but am getting rather confused on which leg of the transmitter and reciever is the power and ground etc.
+
+12 mins - Turns out the transmitter’s shorter leg is it’s power, which is interesting, and I’m going to have to spend another couple mins redoing this.
+
+Components are placed, but I’m just gonna spend a while doing homework, then come back to this.
+
+Damn I was worried about if I don’t get full hours to either write in decimal or to just write minutes but I got a perfect hour of work in.
+
+**Total time spent: 1h**
+
+
+
