@@ -1,2 +1,20 @@
-Used formatting from reels photos to build the Ir Sensor, I’m trying to build a 6 Ir Sensor, Ir sensor module for a comp, and
-this current one I’m working on is the 4th iteration, so some photos may be slightly outdated.
+hours):
+
+---
+title: "My Project Name"
+author: "your-name"
+description: "A short description of your project"
+created_at: "2026-03-20"
+---
+
+# March 20: Designed the PCB layout
+
+Spent the day laying out traces in KiCad. Got the power section done
+and started routing the signal lines. Ran into some clearance issues
+with the USB connector footprint but found a workaround.
+
+![pcb layout](images/pcb-v1.png)
+
+**Total time spent: 4 hours**
+
+
