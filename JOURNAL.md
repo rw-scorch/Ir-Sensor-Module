@@ -7,7 +7,7 @@ created_at: "2026-03-20"
 
 # Oct 25 : Building First Test
 The first module has been completed, time summary below is an accumulation of multiple days.
-Finished soldering the two legs on the side, it is now able to be properly wired up.
+Finished soldering the two legs on the side of the Trct 5000, it is now able to be properly wired up.
 All wires that are to connect to Arduino are soldered
 Wires have been connected to Arduino properly
 Uploading code
@@ -23,6 +23,16 @@ Next steps:
 Identification of certain colors, eg. Green
 Figuring out how to ATTACH DAMN IMAGES
 
-**Total time spent: 3 hours**
+
+Time also contains previous 3 Iterations, Which are undocumented, who’s times have been quartered, and the planning stages, which have also been quartered.
+
+
+Planning - 2h/4 - ~30Mins
+V1 - 8 Hours/4 = 2h
+V2 - 11 Hours/4 = ~2h
+V3 - 6 Hours/4 = ~1h
+
+Current Progress - 1h
+**Total time spent: 6 hours 30 minutes**
 
 
