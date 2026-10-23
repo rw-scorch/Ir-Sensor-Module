@@ -66,6 +66,8 @@ Changing it didn’t seem to do anything, with the unreplaced transmitter, I wen
 
 7 mins - Receiver is replaced, testing for results will begin now. Nope, that didn’t work, results are still roughly the same, I’m not quite sure what’s wrong. Maybe it’s one of the Variable Resistors malfunctioning? Or something isn’t properly connected, I’m going to do some testing.
 
+I edited a small connection and the value went up roughly 5, I reckon it’s the connections.
+
 
 **Total time spent: 1h**
 
