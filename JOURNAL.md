@@ -68,10 +68,12 @@ Changing it didn’t seem to do anything, with the unreplaced transmitter, I wen
 
 I edited a small connection and the value went up roughly 5, I reckon it’s the connections.
 
+30 mins - Ok I’ve fixed the Ir module, with time lapses on the site, basically, after the task above not working, I tried replacing a variable resistor, this variable resistor was giving off a burnt/burning smell every time it got warm, which is why I suspected it, but after replacing it had the opposite effect, dropping my values down to 0-1 on both measures, after that I tested the connections of every wire, which worked fine, but then while testing ohm values, realised that the variable resistor was set to 100k, after dialling it down, my module now works again, and I am able to regain my values, I will now go back to testing interference from one to the other, my current plan is to use heat shrinking wire wrap, to encircle the Ir.
 
-**Total time spent: 1h**
-
-
-
+**Total time spent: 1h 14m**
 
 
+
+
+
+ 
