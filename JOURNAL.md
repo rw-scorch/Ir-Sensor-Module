@@ -53,24 +53,12 @@ Damn I was worried about if I don’t get full hours to either write in decimal 
 **Total time spent: 1h**
 
 
-# Oct 26 : Soldering Prep P2
-20 mins - I was just testing on how to block the IR sensors from interacting with each other when they are right next to one another, but due to some sort of glitch, I’m currently trying to patch up the errors.
+# Oct 26 : Green Detection
+32 mins - I did some testing, and the Ir sensor are horrible at detecting green, so I’ve decided to add a red led, and to use that as an extra, that will cycle itself through.
 
-I think I know the error, but I’m not sure how to fix it, the receiver seems to be working perfectly, while the transmitter seems to work, but doesn’t really do much
+By doing this, green tiles will return black, and when the IR tests it, return really high values, allowing us to deduce that it is an green block. Then, I simply had to draw the schematic again.
 
-After changing some of the variable resistor values to no avail, I’ve decided to assume I’ve somehow burnt out the transmitter, and am going to solder on a new one.
-
-17 mins - In the drive is a cropped times-lapse of me soldering on the replaced Ir Sensor under “26 oct part 2 …”
-
-Changing it didn’t seem to do anything, with the unreplaced transmitter, I went from values 3-5 to 8-9, now, with the new transmitter its going from 0-1 to 25-32, which, while it is an improvemnt, is far from my original results, therefore, I’m going to try replacing the reciever.
-
-7 mins - Receiver is replaced, testing for results will begin now. Nope, that didn’t work, results are still roughly the same, I’m not quite sure what’s wrong. Maybe it’s one of the Variable Resistors malfunctioning? Or something isn’t properly connected, I’m going to do some testing.
-
-I edited a small connection and the value went up roughly 5, I reckon it’s the connections.
-
-30 mins - Ok I’ve fixed the Ir module, with time lapses on the site, basically, after the task above not working, I tried replacing a variable resistor, this variable resistor was giving off a burnt/burning smell every time it got warm, which is why I suspected it, but after replacing it had the opposite effect, dropping my values down to 0-1 on both measures, after that I tested the connections of every wire, which worked fine, but then while testing ohm values, realised that the variable resistor was set to 100k, after dialling it down, my module now works again, and I am able to regain my values, I will now go back to testing interference from one to the other, my current plan is to use heat shrinking wire wrap, to encircle the Ir.
-
-**Total time spent: 1h 14m**
+**Total time spent: 32m**
 
 
 
